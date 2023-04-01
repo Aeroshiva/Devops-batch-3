@@ -1,0 +1,6 @@
+1. git init
+2. git status
+3. git log
+4. git add
+5. git commit -m "add message"
+6. git status
